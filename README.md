@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@uhki](github.com/uhki)
+- 👋 Hi, I’m [@uhki](https://github.com/uhki)
 - 👀 I’m interested in programming, and photography.
 - 🌱 I’m currently studying computer science.
 - 📫 How to reach me `turkispersonal@gmail.com`
